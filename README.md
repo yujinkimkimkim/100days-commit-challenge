@@ -61,6 +61,7 @@
 
 ## 참고 자료
 - [깃허브를 이용한 알고리즘 스터디 하는법](https://waytocse.tistory.com/59)
+- [GitHub Docs - 리포지토리에서 이슈 만들기](https://docs.github.com/ko/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository)
 - [질문을 잘하는 개발](https://blog.jbee.io/articles/essay/%EC%A7%88%EB%AC%B8%EC%9D%84%20%EC%9E%98%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [실력이 좋은 개발자는 좋은 질문을 한다](https://brunch.co.kr/@codestates/4)
 - [\[Tips\] 개발자가 질문과 검색을 잘하는 법](https://velog.io/@kshired/Tips-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%88%EB%AC%B8%EA%B3%BC-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-%EB%B2%95)
