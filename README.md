@@ -60,8 +60,9 @@
     - 에러를 해결하기 위해 어떤 시도를 해보았는지도 질문 내용에 작성해주면 미래에 답변해줄 사람에게 많은 도움이 됩니다. 답변자가 이런 방식으로 시도를 해봤냐고 제안했을 때, 이미 해봤다고 한다면 답변을 해주는 사람도 질문한 사람도 시간을 낭비하게 되는거라고 생각하기 때문입니다.
 
 ## 참고 자료
-- [깃허브를 이용한 알고리즘 스터디 하는법](https://waytocse.tistory.com/59)
+- [GitHub Docs - 리포지토리 포크](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository)
 - [GitHub Docs - 리포지토리에서 이슈 만들기](https://docs.github.com/ko/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository)
+- [깃허브를 이용한 알고리즘 스터디 하는법](https://waytocse.tistory.com/59)
 - [질문을 잘하는 개발](https://blog.jbee.io/articles/essay/%EC%A7%88%EB%AC%B8%EC%9D%84%20%EC%9E%98%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [실력이 좋은 개발자는 좋은 질문을 한다](https://brunch.co.kr/@codestates/4)
 - [\[Tips\] 개발자가 질문과 검색을 잘하는 법](https://velog.io/@kshired/Tips-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%88%EB%AC%B8%EA%B3%BC-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-%EB%B2%95)
